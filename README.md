@@ -1,19 +1,3 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+Simple card game from scrimba APIs course.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+<img width="365" alt="Screenshot 2025-02-10 at 17 18 35" src="https://github.com/user-attachments/assets/300a9717-50b8-446b-8341-3e8a3898f5b7" />
